@@ -29,17 +29,17 @@
 }
 
 .cat1{
-    background-image: linear-gradient(to right, #ff8d4b, #ff136f);
+    background-image: linear-gradient(to right, #FF9C35, #FFD019);
 }
 .cat2{
-    background-image: linear-gradient(to right, #ff68de, #df00c1);
+    background-image: linear-gradient(to right, #FF589B, #FF136F);
 }
 
 .cat3{
-    background-image: linear-gradient(to right, #5272ff, #1900ff);
+    background-image: linear-gradient(to right, #4289FF, #07F8C3);
 }
 
-.categories h1{
+.categories h2{
     color: white;
 }
 
